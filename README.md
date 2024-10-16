@@ -1,6 +1,4 @@
-Sure! Here’s the entire text in a code block:
 
-```
 # Toggle Switch
 
 This is a simple toggle switch project built using HTML, CSS, and JavaScript. The switch allows users to toggle between light and dark themes. It features a sleek design with smooth animations.
